@@ -1,0 +1,21 @@
+[
+{
+  "modid": "GroovyMinecraftMod",
+  "name": "Groovy Minecraft Mod",
+  "description": "A minecraft mod written in groovy",
+  "version": "0.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "lachlanhogg001"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
